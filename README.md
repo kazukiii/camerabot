@@ -1,0 +1,2 @@
+# camerabot
+camerabot for raspberrypi
